@@ -1,0 +1,8 @@
+spawn:
+  ==: org.bukkit.Location
+  world: world
+  x: 117.81525915548384
+  y: 77.0
+  z: -335.9952404709553
+  pitch: 1.2871395
+  yaw: 6.3361883
